@@ -2,13 +2,13 @@
 
 ### Installation
 
-1. Clone the repo onto your local computer. Do this by entering `sudo git clone git@github.com:scopeusc/scope-f23-lesson2.git` in your local terminal in the directory where you want this project to be created.
-2. Open the `scope-f23-lesson2` folder in PyCharm
+1. Clone the repo onto your local computer. Do this by entering `sudo git clone git@github.com:scopeusc/scope-f23-lesson4.git` in your local terminal in the directory where you want this project to be created.
+2. Open the `scope-f23-lesson4` folder in PyCharm
 3. Click on `file -> settings`
    
    ![Screenshot from 2023-06-28 01-13-53](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/2e29e9cd-f0c6-4572-90e1-1bb3bc5a8a82)
 
-4. Select Project: `scope-f23-lesson2 -> Python Interpreter`
+4. Select Project: `scope-f23-lesson4 -> Python Interpreter`
 
 ![Screenshot from 2023-06-28 01-17-34](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/9e80509f-5e0d-4b69-a05f-f429786423da)
 
